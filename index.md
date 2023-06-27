@@ -25,7 +25,7 @@ Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Uni
 _Biblioteca del Polo di Lingue e Letterature Straniere_
 - Collaborazione (tutorato 400 ore) presso la Biblioteca del Polo di Lingue e Letterature straniere.
 
-_Biblioteca di Filosofia_:
+_Biblioteca di Filosofia_
 - Tutorato (200 ore)
 - Verifica di nuovi materiali da biblioteche personali
 - Compilazione di bibliografie, predisposizione alla catalogazione
