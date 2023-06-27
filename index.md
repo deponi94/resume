@@ -38,7 +38,9 @@ _Biblioteca del Polo di Lingue e Letterature Straniere_
 ## Formazione
 
 **Laurea Magistrale** in Lingue e letterature europee ed extraeuropee <br>
+
 [Università degli Studi di Milano](https://www.unimi.it/it) - Milano, Italia _(2017 - 2020)_ <br>
+
 Percorso monolingue di scandinavistica (svedese). Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
 
 ## 💬 Lingue
