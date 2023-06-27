@@ -8,7 +8,7 @@ _RSPP esterno - Salute e sicurezza nei luoghi di lavoro_
 
 Mi occupo di Salute e sicurezza nei luoghi di lavoro (Occupational Health and Safety): consulenza aziendale in ambito sicurezza, redazione di valutazioni specifiche sui rischi nei luoghi di lavoro (DVR, esposizione a rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico) ai sensi del D.Lgs. 81/08. Gestisco l'iscrizione ai corsi di sicurezza per i lavoratori delle aziende clienti e il relativo aggiornamento della loro formazione. Sono formato per il ruolo di Responsabile del Servizio di Prevenzione e Protezione (RSPP, interno ed esterno) ai sensi del Testo Unico e dell'A.S.R. 07/07/2016.
 
-Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Università degli Studi di Milano, curriculum di lingue e letterature scandinave (lingua di specializzazione: svedese). Ho discusso una tesi di sociolinguistica riguardo lo svedese di Finlandia. 
+Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Università degli Studi di Milano, curriculum di lingue e letterature scandinave (lingua di specializzazione: svedese). Ho discusso una tesi di sociolinguistica riguardo lo svedese di Finlandia.
 
 ## 🔧 Esperienza lavorativa 
 
@@ -43,6 +43,10 @@ _Biblioteca del Polo di Lingue e Letterature Straniere_
 
 Percorso monolingue di scandinavistica (svedese). <br>
 Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
+
+## 🪪 Abilitazioni 
+
+- RSPP (Moduli A, B e C) per un totale di 100 ore di formazione
 
 ## 🌍 Lingue
 
