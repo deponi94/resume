@@ -1,9 +1,9 @@
 # Lorenzo Maria Fasoli
 
-_RSPP esterno - Salute e sicurezza nei luoghi di lavoro_
+***RSPP esterno - Salute e sicurezza nei luoghi di lavoro***
 
-🎂 1994-09-17 <br>
-🇮🇹 Verona, Italy <br>
+- 1994-09-17 🎂 <br>
+- Verona, Italy 🇮🇹 <br>
 
 [📫 Email](mailto:lorenzo@madsailors.eu) / [ℹ️ LinkedIn](https://www.linkedin.com/in/lorenzofasoli/)
 
