@@ -10,7 +10,7 @@ Mi occupo di Salute e sicurezza nei luoghi di lavoro (Occupational Health and Sa
 
 Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Università degli Studi di Milano, curriculum di lingue e letterature scandinave (lingua di specializzazione: svedese). Ho discusso una tesi di sociolinguistica riguardo lo svedese di Finlandia. 
 
-## 🧑‍💼 Esperienza lavorativa 
+## 🔧 Esperienza lavorativa 
 
 **RSPP esterno** @ [Cantiero Ing. Mattia]() _(Giugno 2022 - Ora)_ <br>
 - Incarico di RSPP esterno (settori lavorazioni su metallo e trasporto merci su strada);
