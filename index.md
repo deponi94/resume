@@ -45,5 +45,5 @@ Percorso monolingue di scandinavistica (svedese). Titolo della tesi: "Quale stan
 
 🇮🇹 **Italiano** Madrelingua <br>
 🇺🇸 **Inglese**: C1 <br>
-🇸🇪 **Svedese**: B2
-🇩🇪 **Tedesco**: A1 - in apprendimento
+🇸🇪 **Svedese**: B2 <br>
+🇩🇪 **Tedesco**: A1 - in apprendimento <br>
