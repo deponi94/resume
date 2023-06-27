@@ -20,7 +20,6 @@ Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Uni
 - Gestione della formazione ambito sicurezza per i lavoratori delle aziende clienti e relativo aggiornamento;
 - Compilazione MUD;
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
-<br><br>
 
 **Studente collaboratore** @ [Università degli Studi di Milano](https://www.unimi.it/it) _(Maggio 2019 - Luglio 2020)_ <br>
 _Biblioteca del Polo di Lingue e Letterature Straniere_
@@ -41,7 +40,6 @@ _Biblioteca del Polo di Lingue e Letterature Straniere_
 **Laurea Magistrale** in Lingue e letterature europee ed extraeuropee<br>
 [Università degli Studi di Milano](https://www.unimi.it/it) - Milano, Italia _(2017 - 2020)_
 Percorso monolingue di scandinavistica (svedese). Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
-<br><br>
 
 ## 💬 Lingue
 
@@ -49,4 +47,3 @@ Percorso monolingue di scandinavistica (svedese). Titolo della tesi: "Quale stan
 🇺🇸 **Inglese**: C1 <br>
 🇸🇪 **Svedese**: B2
 🇩🇪 **Tedesco**: A1 - in apprendimento
-<br><br>
