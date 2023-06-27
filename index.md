@@ -4,8 +4,8 @@
 
 - 1994-09-17 🎂 <br>
 - Verona, Italy 🇮🇹 <br>
-
-[📫 Email](mailto:lorenzo@madsailors.eu) / [ℹ️ LinkedIn](https://www.linkedin.com/in/lorenzofasoli/)
+- [📫 Email](mailto:lorenzo@madsailors.eu) <br>
+- [ℹ️ LinkedIn](https://www.linkedin.com/in/lorenzofasoli/) <br>
 
 ## 🧑‍💼 Chi sono
 
