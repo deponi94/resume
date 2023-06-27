@@ -9,7 +9,13 @@
 
 ## 🧑‍💼 Chi sono
 
-Mi occupo di Salute e sicurezza nei luoghi di lavoro (Occupational Health and Safety): consulenza aziendale in ambito sicurezza, redazione di valutazioni specifiche sui rischi nei luoghi di lavoro (DVR, esposizione a rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico) ai sensi del D.Lgs. 81/08. Gestisco l'iscrizione ai corsi di sicurezza per i lavoratori delle aziende clienti e il relativo aggiornamento della loro formazione. Sono formato per il ruolo di Responsabile del Servizio di Prevenzione e Protezione (RSPP, interno ed esterno) ai sensi del Testo Unico e dell'A.S.R. 07/07/2016.
+Mi chiamo Lorenzo e mi occupo di Salute e sicurezza nei luoghi di lavoro (Occupational Health and Safety).
+In particolare faccio consulenza aziendale in ambito sicurezza, suggerisco alle aziende in qualità di RSPP o di consulente soluzioni per creare le migliori condizioni per lavorare e produrre limitando al minimo il rischio.
+Seguendo le specifiche del D. Lgs. 81/2008 e le norme tecniche scrivo valutazioni sui rischi delle aziende clienti, concentrandomi sui rischi specifici delle loro realtà aziendali.
+Partendo dal Documento di Valutazione dei Rischi (DVR) eseguo valutazioni del rischio rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico.
+Mi occupo anche di gestire 
+
+di valutazioni specifiche sui rischi nei luoghi di lavoro (DVR, esposizione a rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico) ai sensi del D.Lgs. 81/08. Gestisco l'iscrizione ai corsi di sicurezza per i lavoratori delle aziende clienti e il relativo aggiornamento della loro formazione. Sono formato per il ruolo di Responsabile del Servizio di Prevenzione e Protezione (RSPP, interno ed esterno) ai sensi del Testo Unico e dell'A.S.R. 07/07/2016.
 
 Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Università degli Studi di Milano, curriculum di lingue e letterature scandinave (lingua di specializzazione: svedese). Ho discusso una tesi di sociolinguistica riguardo lo svedese di Finlandia.
 
