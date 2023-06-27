@@ -23,6 +23,7 @@ Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti af
 - Redazione di valutazioni specifiche sui rischi nei luoghi di lavoro (rischio esposizione a rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico);
 - Raccolta misurazioni fonometriche (con fonometro di classe 1) e accelerometriche nei luoghi di lavoro;
 - Gestione della formazione ambito sicurezza per i lavoratori delle aziende clienti e relativo aggiornamento;
+- Gestione della documentazione amministrativa e di sicurezza per ingresso in cantiere delle aziende clienti (anche in lingua inglese per appalti presso committenti esteri);
 - Compilazione MUD;
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
 
