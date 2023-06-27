@@ -2,6 +2,9 @@
 
 _RSPP esterno - Salute e sicurezza nei luoghi di lavoro_
 
+🎂 1994-09-17
+🇮🇹 Verona, Italy
+
 [📫 Email](mailto:lorenzo@madsailors.eu) / [ℹ️ LinkedIn](https://www.linkedin.com/in/lorenzofasoli/)
 
 ## 🧑‍💼 Chi sono
@@ -46,7 +49,7 @@ Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio 
 
 ## 🪪 Abilitazioni 
 
-- RSPP (Moduli A, B e C) per un totale di 100 ore di formazione
+🏭 RSPP (Moduli A, B e C) per un totale di 100 ore di formazione
 
 ## 🌍 Lingue
 
