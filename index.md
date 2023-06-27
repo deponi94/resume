@@ -26,7 +26,7 @@ Laureato magistrale in Lingue e letterature europee ed extraeuropee presso l'Uni
 _Biblioteca del Polo di Lingue e Letterature Straniere_
 - Collaborazione (tutorato 400 ore) presso la Biblioteca del Polo di Lingue e Letterature straniere.
 
-_Biblioteca di Filosofia:
+_Biblioteca di Filosofia_:
 - Tutorato (200 ore)
 - Verifica di nuovi materiali da biblioteche personali
 - Compilazione di bibliografie, predisposizione alla catalogazione
@@ -43,31 +43,10 @@ _Biblioteca del Polo di Lingue e Letterature Straniere_
 Percorso monolingue di scandinavistica (svedese). Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
 <br><br>
 
-## 💬 Languages
+## 💬 Lingue
 
 🇮🇹 **Italiano** Madrelingua <br>
 🇺🇸 **Inglese**: C1 <br>
 🇸🇪 **Svedese**: B2
 🇩🇪 **Tedesco**: A1 - in apprendimento
-
 <br><br>
-
-<! -- 
-
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
-
-
--->
