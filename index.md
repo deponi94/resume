@@ -29,18 +29,17 @@ Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti af
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
 
 **Studente collaboratore** @ [Università degli Studi di Milano](https://www.unimi.it/it) _(Maggio 2019 - Luglio 2020)_ <br>
-_Biblioteca del Polo di Lingue e Letterature Straniere_
-- Collaborazione (tutorato 400 ore) presso la Biblioteca del Polo di Lingue e Letterature straniere.
 
-_Biblioteca di Filosofia_
-- Tutorato (200 ore)
-- Verifica di nuovi materiali da biblioteche personali
-- Compilazione di bibliografie, predisposizione alla catalogazione
-- Valorizzazione e cura delle collezioni collegate a mostre
-
-_Biblioteca del Polo di Lingue e Letterature Straniere_
-- Collaborazione studentesca 150 ore
-- Assistenza agli utenti, prestito e rientro
+- _Biblioteca del Polo di Lingue e Letterature Straniere_
+    - Collaborazione (tutorato 400 ore) per la riorganizzazione totale delle collezioni in vista dei lavori di ristrutturazione del plesso
+- _Biblioteca di Filosofia_
+    - Verifica di nuovi materiali da biblioteche personali
+    - Compilazione di bibliografie, predisposizione alla catalogazione
+    - Tutorato (200 ore)
+    - Valorizzazione e cura delle collezioni collegate a mostre
+- _Biblioteca del Polo di Lingue e Letterature Straniere_
+    - Collaborazione studentesca 150 ore
+    - Assistenza agli utenti, prestito e rientro
 
 ## 🎓 Formazione 
 
@@ -50,6 +49,9 @@ _Biblioteca del Polo di Lingue e Letterature Straniere_
 
 Percorso monolingue di scandinavistica (svedese). <br>
 Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
+
+[Link alla tesi](./files/unimi_tesi_909291_2020.pdf)
+
 
 ## 🪪 Abilitazioni 
 
