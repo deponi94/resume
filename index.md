@@ -69,3 +69,4 @@ Aggiornamenti in qualità di RSPP:
 - 2023-03-10 _Gestione del rischio cyber, da dove cominciare_ (Leonardo e AIAS)
 - 2023-06-05 _Decreto Lavoro 2023 e le modifiche al Testo Unico_ (AIAS)
 - 2023-06-20 _Wellbeing Aziendale la nuova frontiera del benessere in azienda_ (AIAS)
+- 2023-06-28 _La formazione con la realtà virtuale nella sicurezza sul lavoro tra scenari e sviluppo personalizzato: Il caso di Verallia Italia S.P.A._ (AIAS)
