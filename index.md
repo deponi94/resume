@@ -25,6 +25,7 @@ Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti af
 - Gestione della formazione ambito sicurezza per i lavoratori delle aziende clienti e relativo aggiornamento;
 - Gestione della documentazione amministrativa e di sicurezza per ingresso in cantiere delle aziende clienti (anche in lingua inglese per appalti presso committenti esteri);
 - Compilazione MUD;
+- Formazione utilizzo carroponte e gru a bandiera: parte teorica e parte pratica;
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
 
 **Studente collaboratore** @ [Università degli Studi di Milano](https://www.unimi.it/it) _(Maggio 2019 - Luglio 2020)_ <br>
