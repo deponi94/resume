@@ -16,8 +16,6 @@ Seguendo le specifiche del D. Lgs. 81/2008 e le norme tecniche scrivo valutazion
 Si parte dal Documento di Valutazione dei Rischi (DVR) e si prosegue con valutazioni del rischio rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico.
 Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti affinché tutti siano partecipi della gestione della sicurezza aziendale!
 
-![Foto profilo](./files/profile_pic.jpg)
-
 ## 🔧 Esperienza lavorativa 
 
 **RSPP esterno** @ [Cantiero Ing. Mattia]() _(Giugno 2022 - Ora)_ <br>
