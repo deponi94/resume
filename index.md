@@ -48,10 +48,11 @@ Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti af
 [Università degli Studi di Milano](https://www.unimi.it/it) - Milano, Italia _(2017 - 2020)_ <br>
 
 Percorso monolingue di scandinavistica (svedese). <br>
-Titolo della tesi: "Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti".
+Titolo della tesi: "_Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti_".
 
 [Link alla tesi](./files/unimi_tesi_909291_2020.pdf)
 
+Con il lavoro di raccolta dati e successiva analisi sono riuscito a misurare la percezione e la valutazione della varietà locale di svedese nella zona dell'Österbotten (Finlandia), mettendo in risalto i successi e i limiti della politica linguistica di riavvicinamento allo standard linguistico di Svezia.
 
 ## 🪪 Abilitazioni 
 
