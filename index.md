@@ -25,7 +25,7 @@ Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti af
 - Raccolta misurazioni fonometriche (con fonometro di classe 1) e accelerometriche nei luoghi di lavoro;
 - Gestione della formazione ambito sicurezza per i lavoratori delle aziende clienti e relativo aggiornamento;
 - Gestione della documentazione amministrativa e di sicurezza per ingresso in cantiere delle aziende clienti (anche in lingua inglese per appalti presso committenti esteri);
-- Compilazione MUD;
+- Compilazione registri carico/scarico, compilazione e trasmissione MUD telematico;
 - Formazione utilizzo carroponte e gru a bandiera: parte teorica e parte pratica;
 - Amministrazione: rendicontazione e fatturazione elettronica attiva.
 
