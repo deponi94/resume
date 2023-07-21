@@ -61,7 +61,7 @@ Con il lavoro di raccolta dati e successiva analisi sono riuscito a misurare la 
 
 ## 🌍 Lingue
 
-🇮🇹 **Italiano** Madrelingua <br>
+🇮🇹 **Italiano**: Madrelingua <br>
 🇺🇸 **Inglese**: C1 <br>
 🇸🇪 **Svedese**: B2 <br>
 🇩🇰 🇳🇴 **Danese e Norvegese**: competenza passiva (tramite 🇸🇪)
