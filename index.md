@@ -4,7 +4,6 @@
 
 - 1994-09-17 🎂 <br>
 - Verona, Italy 🇮🇹 <br>
-<!-- - Email: [lorenzo@madsailors.eu 📫](mailto:lorenzo@madsailors.eu) <br> -->
 - Email: [lorenzo.fasoli.94@gmail.com 📫](mailto:lorenzo.fasoli.94@gmail.com) <br>
 - [LinkedIn ℹ️](https://www.linkedin.com/in/lorenzofasoli/) <br>
 
@@ -75,9 +74,9 @@ Con il lavoro di raccolta dati e successiva analisi sono riuscito a misurare la 
 
 ## 🪪 Abilitazioni 
 
-🏭 RSPP (Moduli A, B e C) per un totale di 100 ore di formazione <br>
+- RSPP (Moduli A, B e C) per un totale di 100 ore di formazione <br>
 
-## Software
+## 💻 Software
 
 I software che uso al lavoro e per i miei progetti personali sono:
 
@@ -99,6 +98,10 @@ I software che uso al lavoro e per i miei progetti personali sono:
 🇺🇸 **Inglese**: C1 <br>
 🇸🇪 **Svedese**: B2 <br>
 🇩🇰 🇳🇴 **Danese e Norvegese**: competenza passiva (tramite 🇸🇪)
+
+## Altro
+
+- 🚗 Automunito,  patente B
 
 <!--
 ## ✨ Aggiornamento professionale
