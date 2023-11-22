@@ -12,8 +12,7 @@
 Mi chiamo Lorenzo, sono un RSPP esterno e mi occupo di Salute e sicurezza nei luoghi di lavoro (_Occupational Health and Safety_).
 Faccio consulenza aziendale in ambito sicurezza e suggerisco alle aziende, in qualità di RSPP o di consulente, soluzioni per creare le migliori condizioni per lavorare e produrre limitando al minimo il rischio per la salute e la sicurezza dei lavoratori.
 
-Seguendo le specifiche del D. Lgs. 81/2008 e le norme tecniche scrivo valutazioni sui rischi delle aziende clienti, concentrandomi sui rischi specifici delle loro realtà aziendali.
-Si parte dal Documento di Valutazione dei Rischi (DVR) e si prosegue con valutazioni del rischio rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico.
+Seguendo le specifiche del D. Lgs. 81/2008 e le norme tecniche scrivo valutazioni sui rischi delle aziende clienti. Si parte dal Documento di Valutazione dei Rischi (DVR) e si prosegue con valutazioni del rischio rumore, vibrazioni meccaniche, stress da lavoro correlato, rischio chimico.
 Mi occupo anche di gestire la formazione dei lavoratori delle aziende clienti affinché tutti siano partecipi della gestione della sicurezza aziendale!
 
 Lavorare nel campo HSE mi permette di studiare i processi produttivi delle imprese e di apprezzare le scelte che ogni giorno vengono fatte per equilibrare le esigenze di produzione con il diritto di ogni persona a un lavoro svolto in sicurezza.
@@ -21,6 +20,8 @@ Lavorare nel campo HSE mi permette di studiare i processi produttivi delle impre
 ## Cosa sto cercando
 
 Sono uno studente di economia con una predilizione per il settore HSE, quindi cerco un'azienda in cui la sicurezza sia parte della sua cultura, dove tutte le persone coinvolte si impegnino non tanto per aderire alle disposizioni di legge, ma soprattutto perché sono _eticamente_ orientate a creare un luogo di crescita e benessere per tutti. Nel mio posto di lavoro ideale l'azienda cura nei dettagli la formazione di tutti i lavoratori, segue i processi produttivi giornalmente e include i lavoratori nei processi HSE.
+
+**Desidero in particolare ricoprire il ruolo di Addetto al Servizio di Prevenzione e Protezione (ASPP) nei settori ATECO previsti dal modulo B (base)**.
 
 ## 🔧 Esperienza lavorativa 
 
@@ -57,13 +58,13 @@ Sono uno studente di economia con una predilizione per il settore HSE, quindi ce
 
 **Laurea triennale in economia** <br>
 
-[Università degli Studi di Ferrara](https://www.unife.it/) - Ferrara, Italia _(2023 - ora)_ <br>
+[Università degli Studi di Ferrara](https://www.unife.it/it) - Ferrara _(2023 - ora)_ <br>
 
 Iscrizione a tempo parziale al corso di laurea in Economia: i miei settori disciplinari preferiti - che mi hanno portato a scegliere questo corso! - sono quelli del diritto e della gestione aziendale.
 
 **Laurea Magistrale in Lingue e letterature europee ed extraeuropee** <br>
 
-[Università degli Studi di Milano](https://www.unimi.it/it) - Milano, Italia _(2017 - 2020)_ <br>
+[Università degli Studi di Milano](https://www.unimi.it/it) - Milano _(2017 - 2020)_ <br>
 
 Percorso monolingue di scandinavistica (svedese). <br>
 Titolo della tesi: "_Quale standard linguistico per l'Österbotten? Un approccio quantitativo allo studio degli atteggiamenti linguistici e del comportamento correttivo dei parlanti_".
@@ -72,33 +73,37 @@ Titolo della tesi: "_Quale standard linguistico per l'Österbotten? Un approccio
 
 Con il lavoro di raccolta dati e successiva analisi sono riuscito a misurare la percezione e la valutazione della varietà locale di svedese nella zona dell'Österbotten (Finlandia), mettendo in risalto i successi e i limiti della politica linguistica di riavvicinamento allo standard linguistico di Svezia.
 
-## 🪪 Abilitazioni 
+## 🪪 Abilitazioni e Rif. normativi
 
-- RSPP (Moduli A, B e C) per un totale di 100 ore di formazione <br>
+- Formazione ASPP/RSPP (Moduli A, B e C) per un totale di 100 ore;
+- Conoscenza dei testi normativi:
+    - D.Lgs. 81/2008;
+    - A.S.R. 21/12/2011, A.S.R. 22/02/2012, A.S.R. 07/07/2016;
+    - DM 01, 02, 03 settembre 2021.
 
 ## 💻 Software
 
 I software che uso al lavoro e per i miei progetti personali sono:
 
-- **Excel**: competenza avanzata
+- **Software specifici HSE (Certus-PS, PSL, dBTrait, Blumatica)**
+    - Al lavoro utilizzo Certus-PS in caso di DVR con procedure standardizzate, alcuni moduli di PSL (EPC Editore), dBTrait per le rilevazioni fonometrica/accelerometriche e - talvolta - Blumatica per valutazione incendio secondo Minicodice; Ho utilizzato anche gestionali HSE online come Sikuro e Alfagest;
+- **Excel**
     - uso di funzioni logiche, confronto tra dati, creazione di tabelle, formattazione condizionale, pivot, grafici, funzioni innestate e consistenza nell'inserimento dei dati;
     - oltre all'esperienza maturata al lavoro ho usato Excel insieme a SPSS e R per il mio lavoro di tesi e ho frequentato un insegnamento specifico presso UNIFE sull'uso di Excel in ambito economico e statistico;
-- **Word**: competenza avanzata
-    - impaginazione dei documenti tramite utilizzo di stili impostati a monte e controllati; coerenza tra tutti i documenti dell'azienda, consistenza nell'uso di font, margini, posizione di loghi e immagini, utilizzo di tabelle anche integrate con Excel; Al lavoro mi occupo personalmente di creare modelli e di riformattare ogni documento con inconsistenze grafiche;
-- **Software specifici HSE (PSL-dBTrait-Blumatica)**
-    - Al lavoro utilizzo alcuni moduli di PSL (EPC Editore), dBTrait per le rilevazioni fonometrica/accelerometriche e - talvolta - Blumatica per valutazione incendio secondo Minicodice;
+- **Word**
+    - impaginazione dei documenti tramite utilizzo di stili impostati a monte e controllati; coerenza tra tutti i documenti dell'azienda, consistenza nell'uso di font, margini, posizione di loghi e immagini, utilizzo di tabelle anche integrate con Excel; al lavoro mi occupo personalmente di creare modelli e di riformattare ogni documento che presenti inconsistenze testuali e grafiche;
 - **Scrittura in Markdown**
     - questo CV è stato scritto come un file in Markdown e per tutti i miei appunti personali e di lavoro prediligo questo linguaggio di markup (specialmente usando Obsidian), così da passare più agevolmente tramite `Pandoc` a un documento in `LateX` o in `HTML` per attività più complesse;
     - Questo CV è disponibile anche [online](https://deponi94.github.io/resume/);
 - **Sistemi operativi per PC**
-    - Al lavoro utilizzo quotidianamente Windows però mi trovo a mio agio anche con SO GNU/Linux, con i quali posso usare più agevolmente la riga di comando da terminale;
+    - Al lavoro utilizzo quotidianamente Windows però mi trovo a mio agio anche con SO GNU/Linux, con i quali posso usare più agevolmente la riga di comando da terminale.
 
 ## 🌍 Lingue
 
 🇮🇹 **Italiano**: Madrelingua <br>
 🇺🇸 **Inglese**: C1 <br>
 🇸🇪 **Svedese**: B2 <br>
-🇩🇰 🇳🇴 **Danese e Norvegese**: competenza passiva (tramite 🇸🇪)
+🇩🇰 🇳🇴 **Danese e Norvegese**: competenza passiva in lettura (tramite 🇸🇪)
 
 ## Altro
 
