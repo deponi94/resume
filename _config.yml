@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: 📄🦺👷🏼‍♂
+title: <img src="./files/profile_pic.jpg" alt="Foto" width="150"/>
 description:
+plugins:
+  - jemoji

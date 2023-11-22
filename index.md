@@ -5,7 +5,7 @@
 - 1994-09-17 🎂 <br>
 - Verona, Italy 🇮🇹 <br>
 - Email: [lorenzo.fasoli.94@gmail.com 📫](mailto:lorenzo.fasoli.94@gmail.com) <br>
-- [LinkedIn ℹ️](https://www.linkedin.com/in/lorenzofasoli/) <br>
+- [LinkedIn](https://www.linkedin.com/in/lorenzofasoli/) <br>
 
 ## 🧑‍💼 Chi sono
 
