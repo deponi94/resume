@@ -92,6 +92,7 @@ I software che uso al lavoro e per i miei progetti personali sono:
     - Questo CV è disponibile anche [online](https://deponi94.github.io/resume/);
 - **Sistemi operativi per PC**
     - Al lavoro utilizzo quotidianamente Windows però mi trovo a mio agio anche con SO GNU/Linux, con i quali posso usare più agevolmente la riga di comando da terminale;
+
 ## 🌍 Lingue
 
 🇮🇹 **Italiano**: Madrelingua <br>
